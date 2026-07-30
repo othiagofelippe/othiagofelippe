@@ -1,55 +1,37 @@
-# 👨🏽‍💻 Thiago Felippe
+# Thiago Felippe
 
-**`React Developer | Mobile Developer`**
+Desenvolvedor de software — resolvo problemas usando tecnologia. Quando algo trava, sou a pessoa chamada pra descobrir por quê.
 
-Desenvolvedor front-end com mais de 2 anos de experiência, especializado em **React**, **Next.js**, **JavaScript** e **TypeScript**. Apaixonado por transformar ideias em interfaces rápidas, responsivas e acessíveis que proporcionam excelentes experiências aos usuários.
+Hoje faço parte do time do **[Prisma](https://designsystem.livelo.com.br/)**, o design system da Livelo, alocado pela ília. Web e mobile, React e React Native, tokens com Style Dictionary — e a maior contribuição até agora foi construir um **MCP** que indexa o design system inteiro pra IA consultar e validar conformidade de código, já em uso pelo time.
 
----
+Comecei mexendo em código de jogo sem saber o que era programação, formatando Windows e caçando driver em fórum porque meu pai era técnico de informática. De lá pra cá: três empregos fora da área até apostar tudo nos estudos, um estágio trocando cor de botão, e hoje um pouco mais de experiência resolvendo problemas de verdade.
 
-## 🛠️ Habilidades Técnicas
-
-- **Linguagens:** JavaScript (ES6+), TypeScript
-- **Frameworks e Bibliotecas:** React, Next.js, React Native
-- **Estilização:** CSS3, Tailwind CSS, Styled Components
-- **Ferramentas:** Git, Webpack, Vite, ESLint, Prettier
-- **Testes:** Jest, React Testing Library
-- **Integração:** APIs REST e GraphQL
+🔗 [othiagofelippe.com](https://www.othiagofelippe.com) — portfólio completo, em pt/en/es
 
 ---
 
-## 🌐 Contato
+## O que eu uso no dia a dia
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othiagofelippe/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.othiagofelippe.com.br/)
-[![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@othiagofelippe.com)
+`React` `Next.js` `React Native` `TypeScript` `Design Systems` `Style Dictionary` `GraphQL` `Figma`
+
+E ultimamente bastante engenharia de contexto: Claude Code, spec-driven development, MCP, fluxos multiagente — descobrindo como IA muda (e não muda) a forma de resolver problema.
+
+## Projetos que mantenho
+
+- **[tf.ds](https://github.com/othiagofelippe/tf.ds)** — meu design system pessoal, onde testo ideia antes de levar pro trabalho
+- **[my-portfolio](https://github.com/othiagofelippe/my-portfolio)** — este aqui, na verdade: Next.js, i18n, 3 temas
+
+## Fora do código
+
+Rio de Janeiro. Flamengo, inegociável. Attack on Titan e Fullmetal Alchemist: Brotherhood competindo pelo topo. EA FC nos dias livres. Um cachorro chamado Akamaru e um gato chamado Asta — se você entendeu as referências, já sabe com quem está falando.
+
+Não bebo café. Pessoa da manhã, apesar de tudo.
 
 ---
 
-## 📈 Estatísticas do GitHub
+📫 Aberto a oportunidades — [contact@othiagofelippe.com](mailto:contact@othiagofelippe.com)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=othiagofelippe&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Thiago" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagofelippe&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas por Thiago" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=othiagofelippe&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Thiago" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagofelippe&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas por Thiago" />
 </div>
-
----
-
-## 📚 Atualmente Estudando
-
-- **Python:** Explorando novas possibilidades
-- **Otimização de Performance:** Focado em acessibilidade, SEO e melhores práticas
-
----
-
-## 💼 Experiência Profissional
-
-- Desenvolvimento de aplicações web e mobile utilizando **React**, **Next.js** e **React Native**
-- Implementação de interfaces de usuário responsivas e acessíveis
-- Colaboração com equipes multidisciplinares para integração de sistemas
-- Otimização de performance e SEO em projetos web
-
----
-
-## 🚀 Projetos em Destaque
-
-- **Portfólio Pessoal:** [othiagofelippe.com.br](https://www.othiagofelippe.com.br/) - Meu portfólio profissional apresentando projetos e habilidades.
