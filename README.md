@@ -30,8 +30,3 @@ Não bebo café. Pessoa da manhã, apesar de tudo.
 ---
 
 📫 Aberto a oportunidades — [contact@othiagofelippe.com](mailto:contact@othiagofelippe.com)
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=othiagofelippe&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Thiago" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagofelippe&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas por Thiago" />
-</div>
